@@ -1,0 +1,11 @@
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\bin\Debug\Meja Klinik.exe.config
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\bin\Debug\Meja Klinik.exe
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\bin\Debug\Meja Klinik.pdb
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.csproj.AssemblyReference.cache
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.csproj.SuggestedBindingRedirects.cache
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja_Klinik.Form1.resources
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja_Klinik.Properties.Resources.resources
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.csproj.GenerateResource.cache
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.csproj.CoreCompileInputs.cache
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.exe
+D:\User File\Documents\Stikom Bali\Tugas Kuliah\Pemrograman Visual\Meja Klinik\Meja Klinik\obj\Debug\Meja Klinik.pdb
